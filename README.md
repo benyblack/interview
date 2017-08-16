@@ -1,9 +1,14 @@
 # interview
 List a bunch of documents about preparing for interviews
 
+### Complexity
+  - http://bigocheatsheet.com/
+
+
 ### Data Structures
 - String
 - Array & List
+- Linked List
 - HashSet
 - Queue & Stack
 - HashMap (Dictionary)
