@@ -7,12 +7,13 @@ List a bunch of documents about preparing for interviews
 
 ### Data Structures
 - String
-- Array & List
-- Linked List
+- [Array & List](Array.md)
+- [Linked List](LinkedList.md)
 - HashSet
 - Queue & Stack
 - HashMap (Dictionary)
 - Tree
+- Trie
 - Graph
 
 ### Algorithm
@@ -26,5 +27,8 @@ List a bunch of documents about preparing for interviews
   - Dijikstra
 
 ### Scaling
+- [http://highscalability.com/](http://highscalability.com/)
+- [https://www.interviewbit.com/courses/system-design/topics/interview-questions/](https://www.interviewbit.com/courses/system-design/topics/interview-questions/)
 
 ### Behavior and Cultural fit
+- https://www.youtube.com/watch?v=PJKYqLP6MRE
