@@ -9,7 +9,7 @@ List a bunch of documents about preparing for interviews
 - String
 - [Array & List](Array.md)
 - [Linked List](LinkedList.md)
-- HashSet
+- [HashSet & HashTable & Set](HashSet.md)
 - Queue & Stack
 - HashMap (Dictionary)
 - Tree
