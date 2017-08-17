@@ -1,11 +1,11 @@
 # interview
 List a bunch of documents about preparing for interviews
 
-### Complexity
+## Complexity
   - http://bigocheatsheet.com/
 
 
-### Data Structures
+## Data Structures
 - String
 - [Array & List](Array.md)
 - [Linked List](LinkedList.md)
@@ -16,7 +16,8 @@ List a bunch of documents about preparing for interviews
 - Trie
 - Graph
 
-### Algorithm
+## Algorithm
+- Recursive
 - Search
   - Binary Search
 
@@ -30,14 +31,14 @@ List a bunch of documents about preparing for interviews
   - Belman-Ford
   - Dijikstra
 
-### Scaling
+## Scaling
 - [http://highscalability.com/](http://highscalability.com/)
 - [https://www.interviewbit.com/courses/system-design/topics/interview-questions/](https://www.interviewbit.com/courses/system-design/topics/interview-questions/)
 
-### Behavior and Cultural fit
+## Behavior and Cultural fit
 - https://www.youtube.com/watch?v=PJKYqLP6MRE
 
-### Interview General Topics
+## Interview General Topics
 - Handshaking
 - Clothes
 - Eye Contact
@@ -46,11 +47,11 @@ List a bunch of documents about preparing for interviews
   - [https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
   - [https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
 
-### Language Specific Interview
+## Language Specific Interview
 - [C#](Csharp.md)
 - [Javascript](Javascript.md)
 
-### Programming Principles
+## Programming Principles
 - DRY [wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [SOLID](SOLID.md) [wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - TDD
