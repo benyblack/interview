@@ -44,7 +44,14 @@ List a bunch of documents about preparing for interviews
 - Salary Negotiation
 - Useful links
   - [https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
+  - [https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
 
 ### Language Specific Interview
 - [C#](Csharp.md)
 - [Javascript](Javascript.md)
+
+### Programming Principles
+- DRY [wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [SOLID](SOLID.md) [wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+- TDD
+- BDD
