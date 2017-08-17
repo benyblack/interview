@@ -10,7 +10,8 @@ List a bunch of documents about preparing for interviews
 - [Array & List](Array.md)
 - [Linked List](LinkedList.md)
 - [HashSet & HashTable & Set](HashSet.md)
-- Queue & Stack
+- [Queue](Queue.md)
+- [Stack](Stack.md)
 - HashMap (Dictionary)
 - Tree
 - Trie
@@ -48,8 +49,8 @@ List a bunch of documents about preparing for interviews
   - [https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
 
 ## Language Specific Interview
-- [C#](Csharp.md)
-- [Javascript](Javascript.md)
+- C#
+- Javascript
 
 ## Programming Principles
 - DRY [wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
