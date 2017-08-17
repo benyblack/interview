@@ -19,7 +19,11 @@ List a bunch of documents about preparing for interviews
 ### Algorithm
 - Search
   - Binary Search
+
 - Sort
+  - Bubble Sort
+  - Quick Sort
+
 - Graph Related
   - BFS
   - DSF
@@ -32,3 +36,15 @@ List a bunch of documents about preparing for interviews
 
 ### Behavior and Cultural fit
 - https://www.youtube.com/watch?v=PJKYqLP6MRE
+
+### Interview General Topics
+- Handshaking
+- Clothes
+- Eye Contact
+- Salary Negotiation
+- Useful links
+  - [https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview](https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview)
+
+### Language Specific Interview
+- [C#](Csharp.md)
+- [Javascript](Javascript.md)
