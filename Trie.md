@@ -32,7 +32,7 @@ public class Trie {
     ...
 ```
 
-- Java Implementation With HashMap ([source](TrieIMplementationWithHashMap.java))
+- Java Implementation With HashMap ([source](source/TrieIMplementationWithHashMap.java))
 
 ```Java
 // Inserts a word into the trie.
