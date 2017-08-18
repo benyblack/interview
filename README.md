@@ -14,7 +14,7 @@ List a bunch of documents about preparing for interviews
 - [Stack](Stack.md)
 - HashMap (Dictionary)
 - Tree
-- Trie
+- [Trie](Trie.md)
 - Graph
 
 ## Algorithm
@@ -53,7 +53,7 @@ List a bunch of documents about preparing for interviews
 - Javascript
 
 ## Programming Principles
-- DRY [wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-- [SOLID](SOLID.md) [wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+- DRY [(wikipedia)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [SOLID](SOLID.md) [(wikipedia)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - TDD
 - BDD
