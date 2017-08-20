@@ -2,6 +2,7 @@
 List a bunch of documents about preparing for interviews
 
 ## Complexity
+  - [Big O](BigO.md)
   - http://bigocheatsheet.com/
 
 
@@ -12,8 +13,9 @@ List a bunch of documents about preparing for interviews
 - [HashSet & HashTable & Set](HashSet.md)
 - [Queue](Queue.md)
 - [Stack](Stack.md)
-- HashMap (Dictionary)
 - Tree
+  - Binary Tree
+  - Binary Search Tree
 - [Trie](Trie.md)
 - Graph
 
