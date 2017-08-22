@@ -14,7 +14,7 @@ List a bunch of documents about preparing for interviews
 - [HashSet & HashTable & Set](HashSet.md)
 - [Queue](Queue.md)
 - [Stack](Stack.md)
-- Tree
+- [Tree](Tree.md)
 - [Trie](Trie.md)
 - Graph
 
