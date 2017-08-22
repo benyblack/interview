@@ -4,6 +4,7 @@ List a bunch of documents about preparing for interviews
 ## Complexity
   - [Big O](BigO.md)
   - http://bigocheatsheet.com/
+  - [Big-O Poster](https://github.com/ro31337/bigoposter)
 
 
 ## Data Structures
@@ -14,8 +15,6 @@ List a bunch of documents about preparing for interviews
 - [Queue](Queue.md)
 - [Stack](Stack.md)
 - Tree
-  - Binary Tree
-  - Binary Search Tree
 - [Trie](Trie.md)
 - Graph
 
