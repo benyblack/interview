@@ -3,6 +3,7 @@ In computer programming, the term SOLID is a mnemonic acronym for five design pr
 
 Additional Liks:
 - [https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- https://app.pluralsight.com/library/courses/principles-oo-design/
 
 ## [Single responsibility principle](SingleResponsibilityPrinciple.md)
 [wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle) - 
